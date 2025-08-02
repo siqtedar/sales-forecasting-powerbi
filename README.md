@@ -22,7 +22,7 @@ The dataset contains daily sales for multiple items across regions and states:
 - 🔝 **Top Items**: Most popular products.
 - 🧮 **KPI Cards**: Total units sold, average daily sales.
 
-<img src="screenshots/sales_dashboard.png" width="700" />
+<img src="sales_dashboard.png" width="700" />
 
 ---
 
